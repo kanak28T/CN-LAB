@@ -4,8 +4,8 @@ Socket Programming for Transport Layer Packets (TCP Client)
 
 ## Terminal Session
 ```
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ vim client_1298.c
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gcc client_1298.c -o client
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ vim client_1290.c
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gcc client_1290.c -o client
 lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ ./client 127.0.0.1
 Connected to server. Enter message: Hello Server
 Echo from server: Hello Server
