@@ -5,8 +5,8 @@ Socket Programming for Transport Layer Protocol (UDP Client)
 
 ## Terminal Session
 ```
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ vim udp_client_1298.c
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gcc udp_client_1298.c -o udp_client
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ vim udp_client_1290.c
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gcc udp_client_1290.c -o udp_client
 lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ ./udp_client 127.0.0.1
 Enter message to send: Hello UDP Server
 Echo from server: Hello UDP Server
